@@ -1,0 +1,58 @@
+#formulario {
+float: right;}
+
+#conta:hover {
+    font-size: 20px;
+    transition: 1s;
+    color: darkolivegreen;
+}
+
+.emoji {
+    height: 150px;
+    width: 150px;
+}
+
+.emoji:hover {
+    transform: rotate(180deg);    
+    transition: 2s;
+}
+.sol {
+    height: 200px;
+    width: 30%;
+}
+
+.usuario {
+    padding: auto;
+    margin-left: 15px;
+}
+
+.emoji2 {
+    height: 50px;
+    width: 50px;
+}
+
+.emoji2:hover {
+    transform: rotate(720deg);    
+    transition: 2s;
+}
+
+.like {
+    height: 50px;
+    width: 50px;
+}
+
+.comentar {
+    height: 50px;
+    width: 50px;
+}
+
+.compartilhar {
+    height: 50px;
+    width: 50px;
+}
+
+.usuario:hover {
+    font-size: 20px;
+    transition: 1s;
+    color: darkolivegreen;
+}
